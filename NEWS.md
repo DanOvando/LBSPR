@@ -1,3 +1,14 @@
+# LBSPR 0.1.3 
+## Minor Changes
+- fix bug in Shiny app reading in data
+- modify SPR circle plot used in the Shiny app.
+
+# LBSPR 0.1.2
+## Minor Changes
+- add option to specify scales for axes in plotSize
+- modify plotTarg function and add features
+
+
 # LBSPR 0.1.1
 
 ## Minor Changes
